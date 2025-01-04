@@ -3,11 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: #EFE9F4;
   --foreground: #171717;
-  --input: #0D47A1;
+  --inputBackground: #A3C8B4;
+  --inputText: #000000;
+  --inputPlaceholder: #7B8B9B;
+  --borderColor: #7B8B9B;
   --border: #E0E0E0;
-  --button: #00ACC1;
+  --button: #57A773;
   --highlight: #FFD54F;  
 }
 
